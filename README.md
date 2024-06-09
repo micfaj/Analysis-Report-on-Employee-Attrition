@@ -80,6 +80,7 @@ Organizations can reduce turnover, retain valuable talent, and improve employee 
 ## License
 
 This project is licensed under the MIT License.
+Database: Open Database, Contents: Database Contents
 
 ## Acknowledgments
 
